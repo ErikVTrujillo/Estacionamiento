@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@types/express": "^4.17.17",
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "@angular/google-maps": "^16.2.7"
+  }
+}
